@@ -1,3 +1,3 @@
 # Web Developement StudyJam
-## Day
+## Day 1
   HTML
