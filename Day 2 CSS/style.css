@@ -1,0 +1,19 @@
+body{
+    background-color: #fefae0;
+    font-family:'Verdana',sans-serif;
+}
+.hello{
+    color: crimson;
+    font-size:48px;
+    text-align:center;
+}
+#iddd{
+    color:#555;
+    font-size:20px;
+    text-align: center;
+    font-style:italic;
+}
+p{
+    color:rgba(110,220,30);
+    font-size:26px;
+}
